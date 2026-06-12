@@ -30,11 +30,16 @@ I'm an **AI & ML student** at Symbiosis Institute of Technology, Pune, building 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-009900?style=flat&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00CFFF?style=flat)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 **Data & Analytics**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -50,19 +55,32 @@ Multiclass IDS on the UNSW-NB15 dataset classifying 10 attack types (DDoS, Explo
 Ensemble of Random Forest + XGBoost + Neural Network → **98.38% accuracy**, **0.61 macro F1**.  
 `Python` `scikit-learn` `XGBoost` `TensorFlow` `Streamlit`
 
-### 👁️ Computer Vision Systems for Surveillance & Forensic Analysis
-Camouflage-based object detection with **YOLOv5** deployed on **Raspberry Pi 5** for real-time edge inference.  
-Forensic scene model with **YOLOv8** to infer event sequences from spatial relationships.  
-`Python` `YOLOv5` `YOLOv8` `PyTorch` `OpenCV` `Raspberry Pi 5`
+### 🎯 [Stealth Vision — Real-Time Camouflage Detection](https://github.com/PPiyush14/Stealth-Vision-Real-Time-Camouflage-Detection-Using-YOLOv5)
+YOLOv5 fine-tuned on ~10,000 images across forest, arctic, urban and arid terrains. Deployed on **Raspberry Pi 5** for autonomous offline edge inference — no cloud needed.  
+`Python` `YOLOv5` `PyTorch` `OpenCV` `Raspberry Pi 5`
+
+### 🔬 [ForensicAI — Crime Scene Reconstruction & Event Inference](https://github.com/PPiyush14/ForensicAI---Automated-Crime-Scene-Reconstruction-and-Event-Inference-Using-Computer-Vision)
+Detects evidence (bloodstains, weapons, persons) from crime scene images using custom YOLOv8 models and generates structured forensic narratives via **LLaMA-4 Scout (Groq)**.  
+`Python` `YOLOv8` `Flask` `Groq API` `OpenCV`
+
+### 🌾 [GreenHarvest AI — Smart Agriculture Supply Chain](https://github.com/PPiyush14/GreenHarvestAI---Smart-Agriculture-Supply-Chain-Market-Intelligence)
+4-agent AI system for farmers — yield prediction, warehouse matching, live market prices via `data.gov.in` API, and transport cost optimization. React frontend + Gradio backend.  
+`Python` `scikit-learn` `Gradio` `React` `data.gov.in API`
 
 ### 🔍 VERITAS — Deepfake & Synthetic Media Detection App
-Native Android system detecting deepfakes, AI voice clones, and synthetic phishing in real time across apps.  
-Persistent cross-app background service routing screen frames to an external detection API with zero local storage.  
+Native Android system detecting deepfakes, AI voice clones, and synthetic phishing in real time across apps. Persistent cross-app background service with zero local storage.  
 `Android` `Computer Vision` `Deep Learning`
 
 ### 📝 [Automated Handwritten Answer Evaluation System](https://github.com/PPiyush14/Automated-Grading-System)
-AI pipeline combining **OCR** + **semantic similarity** for automated grading without manual intervention.  
-`Python` `OCR` `NLTK` `scikit-learn`
+AI pipeline combining **TrOCR + Tesseract OCR** and **TF-IDF cosine similarity** for automated A–F grading without manual intervention.  
+`Python` `TrOCR` `Tesseract` `NLTK` `scikit-learn`
+
+---
+
+## 📊 GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPiyush14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPiyush14&layout=compact&theme=radical)
 
 ---
 
