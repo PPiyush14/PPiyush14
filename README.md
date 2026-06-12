@@ -66,13 +66,6 @@ AI pipeline combining **OCR** + **semantic similarity** for automated grading wi
 
 ---
 
-## 📊 GitHub Stats
-
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPiyush14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPiyush14&layout=compact&theme=radical)
-
----
-
 ## 🎓 Certifications
 
 - ☁️ **Oracle Cloud Infrastructure (OCI) 2025** Certified Foundations Associate — Oracle University
